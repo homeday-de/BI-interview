@@ -13,4 +13,5 @@ The followings are your missions requirement, please read them thoroughly before
 3. Wrap the entire pipeline into a docker image. **(Optional)**
 4. Use Python to construct your pipeline, save your functions or other necessary in the Python scripts (not Jupyter notebook).
 5. Attach your GitHub repository or gist once you are finished. 
-6. Enjoy coding!
+
+Feel free to reach out to us if you got any question or idea while approaching the tasks! Enjoy coding!
