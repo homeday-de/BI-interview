@@ -9,8 +9,8 @@ You can find 2 JSON files which are extracted from a single request of the API, 
 
 The followings are your missions requirement, please read them thoroughly before you start:
 1. Apply "JSON to CSVs" transformation to those files (each JSON is a single record in the resulting CSV table) in a script.
-2. Instead of resulting talbes in CSV format, store them in a database system. **(Optional)**
+2. Instead of resulting tables in CSV format, store them in a database system. **(Optional)**
 3. Wrap the entire pipeline into a docker image. **(Optional)**
-4. Please use Python construct your pipeline, save your functions or other necessary in the Python scripts (not Jupyter notebook).
+4. Use Python construct your pipeline, save your functions or other necessary in the Python scripts (not Jupyter notebook).
 5. Attach your GitHub repository or gist once you are finished. 
 6. Enjoy coding!
